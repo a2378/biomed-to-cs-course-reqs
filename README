@@ -1,0 +1,171 @@
+# -*- mode:org; -*-
+#+title: Comparing BME to CS course requirements
+#+options: num:nil toc:nil
+
+* What CS topics are missing?
+- Algorithms
+- Automata theory
+- Proofs
+- Compilers (not required but I want to cover this)
+
+* What CS topics have been covered?
+- Everything else
+
+* How to fill in?
+- MIT OpenCourseware 6.006 Algorithms,
+  Algorithms textbook by CLRS
+- MIT OpenCourseware 6.045J Automata, Computability, and Complexity,
+  Introduction to Automata Theory by Hopcroft and Ullman
+- MIT Opencourseware 6.042J Mathematics For Computer Science,
+  How to Prove it by Velleman
+- MIT OCW 6.004 Computation structures,
+  Dragon book
+- Then take algorithms, PL (for automata), complexity theory, compilers classes
+  after starting
+
+* Course table - Drexel Biomedical (Neural) Engineering + Comp. Eng.
+
+| Code     | Title                                            | Notes                                                                  |
+|----------+--------------------------------------------------+------------------------------------------------------------------------|
+| ENGR 103 | Engineering Design Lab                           | Graphics programming in OpenGL, surface normals, vector calculus       |
+| ECE 200  | Digital Logic Design                             | Combinatorial logic and boolean algebra                                |
+| BMES 201 | Programming and Modeling for BME 1               | MATLAB data analysis                                                   |
+| BMES 202 | Programming and Modeling for BME 2               | Python data analysis                                                   |
+| ECE 203  | Programming for Engineers                        | Python and C programming                                               |
+| ECES 301 | Transform Methods                                | Taylor series, Laplace, Fourier, etc.                                  |
+| ECEC 301 | Advanced programming for engineers               | OOP, mem. alloc. and GC, data structures (linked lists, stacks, trees) |
+| ECEC 302 | Digital Systems Projects                         | Hardware description languages and FPGAs                               |
+| ECEL 304 | Design with Microcontrollers                     | Embedded C programming                                                 |
+| ECES 304 | Dynamic systems and stability                    | Linear and nonlinear second-order systems, eigenvalues/vectors         |
+| ECES 356 | Theory of Control                                | Control loop architectures such as PID, etc.                           |
+| BMES 405 | Physiological Control Systems                    | Feedback and feed forward control systems, stability, modeling         |
+| BMES 491 | Senior Design Project 1                          | ML classifiers (Support Vector Machines), signal processing            |
+| BMES 492 | Senior Design Project 2                          |                                                                        |
+| BMES 493 | Senior Design Project 3                          |                                                                        |
+|          |                                                  |                                                                        |
+| BIO 122  | Cells and Genetics                               |                                                                        |
+| BIO 141  | Essential Biology                                |                                                                        |
+| BIO 201  | Human Physiology 1                               |                                                                        |
+| BIO 203  | Human Physiology 2                               |                                                                        |
+| BMES 301 | Biomechanics                                     |                                                                        |
+| BMES 302 | Biomeasurements                                  |                                                                        |
+| BMES 304 | Ultrasound imaging                               |                                                                        |
+| BMES 430 | Neural aspects of posture and locomotion         |                                                                        |
+| BMES 477 | Neuroengineering 1                               | Signal processing for neural signals                                   |
+| BMES 477 | Neuroengineering 2                               |                                                                        |
+| BMES 411 | Chronoengineering and biorhythms                 |                                                                        |
+| BIO 462  | Biology of Neuron function                       |                                                                        |
+| BMES 685 | Experimental Methods in BME                      |                                                                        |
+|          |                                                  |                                                                        |
+| MATH 121 | Calulus 1                                        |                                                                        |
+| MATH 122 | Calulus 2                                        |                                                                        |
+| MATH 200 | Multivariate calculus                            |                                                                        |
+| MATH 262 | Differential equations                           |                                                                        |
+| BMES 451 | Transport Phenomena in Living Systems            | Modeling diffusion and heat transfer in cells using PDEs               |
+| MATH 261 | Linear Algebra                                   |                                                                        |
+| BMES 372 | Biosimulation                                    | Biomedical data analysis using linear algebra                          |
+| BMES 375 | Computational Bioengineering                     | Continuation of BMES 372                                               |
+| ENGR 201 | Evaluation and presentation of experimental data | Hypothesis testing such as T-tests, ANOVA, Chi-squared, etc.           |
+| ENGR 202 | Evaluation and presentation of experimental data | Regression and probability                                             |
+|          |                                                  |                                                                        |
+| PHYS 101 | Fundamentals of Physics 1                        |                                                                        |
+| PHYS 102 | Fundamentals of Physics 2                        |                                                                        |
+| PHYS 201 | Fundamentals of Physics 3                        |                                                                        |
+| ENGR 210 | Introduction to Thermodynamics                   |                                                                        |
+|          |                                                  |                                                                        |
+| BMES 212 | The Body Synthetic                               | Medical device design (general)                                        |
+| BMES 325 | Principles of Biomedical Engineering 1           |                                                                        |
+| BMES 326 | Principles of Biomedical Engineering 2           |                                                                        |
+| BMES 401 | Biosensors 1                                     | Design of venous catheters and flow modeling                           |
+|          |                                                  |                                                                        |
+| BMES 381 | Junior Design Seminar 1                          | Medical device regulatory compliance                                   |
+| BMES 382 | Junior Design Seminar 2                          |                                                                        |
+| BMES 338 | Biomedical Ethics and Law                        |                                                                        |
+| HIST 285 | Technology in the Historial Perspective          |                                                                        |
+|          |                                                  |                                                                        |
+| ENGR 100 | Beginning CAD for Design                         |                                                                        |
+| MEM 202  | Statics                                          |                                                                        |
+| BMES 897 | Research                                         | MEMS and Photolithographyq                                             |
+|          |                                                  |                                                                        |
+| CHEM 101 | General Chemistry 1                              |                                                                        |
+| CHEM 102 | General Chemistry 2                              |                                                                        |
+|          |                                                  |                                                                        |
+| PSY 101  | General Psychology 1                             |                                                                        |
+| PSY 213  | Sensation and Perception                         |                                                                        |
+|          |                                                  |                                                                        |
+| ENGL 101 | Composition and Rhetoric 1                       |                                                                        |
+| ENGL 102 | Composition and Rhetoric 1                       |                                                                        |
+| ENGL 103 | Composition and Rhetoric 3                       |                                                                        |
+|          |                                                  |                                                                        |
+| excluded | Seminars and electives                           | See transcript                                                         |
+
+
+* Plan of study comparison table - [[https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-science/bscs/#planofstudytext][NEU CS]]
+
+Summary
+- Missing CS 1800. Discrete Structures (data structures)
+- Missing MATH 1365. Introduction to Mathematical Reasoning. (proofs)
+- Missing CS 3000. Algorithms and Data.
+- Missing CS 3800. Theory of Computation. (automata)
+
+| Code      | Class                                            | Code         | Class                                 |
+|-----------+--------------------------------------------------+--------------+---------------------------------------|
+| Year 1    |                                                  |              |                                       |
+| CS 1800   | Discrete (data) Structures                       | N/A          | MISSING                               |
+| CS 2500   | Fundamentals of Computer Science 1               | ECE 203      | Programming for Engineers             |
+| ENGW 1111 | First-Year Writing                               | ENGL 102     | Composition and Rhetoric II           |
+| MATH 1365 | Introduction to Mathematical Reasoning           | N/A          | MISSING                               |
+| CS 2510   | Fundamentals of Computer Science 2               | ECEC 301     | Advanced programming for engineers    |
+| CS 2810   | Mathematics of Data Models                       | MATH 200/261 | Multivariate calculus, linear algebra |
+| N/A       | Science Elective with Lab                        | BIO 122      | Cells and Genetics                    |
+| CS 3000   | Algorithms and Data                              | N/A          | MISSING                               |
+| MATH 1341 | Calculus 1 for Science and Engineering           | MATH 121     | Calculus 1                            |
+|           |                                                  |              |                                       |
+| Year 2    |                                                  |              |                                       |
+| CS 3500   | Object-Oriented Design                           | Curvebeam    | Work                                  |
+| CS 3650   | Computer Systems                                 | ECE 200      | Digital Logic Design                  |
+| N/A       | concentration elective                           | ENGR 103     | Engineering Design Seminar 3          |
+| EECE 2322 | Fundamentals of Digital Design and Computer Org. | ECEC 302     | Digital Systems Projects              |
+|           |                                                  |              |                                       |
+| Year 3    |                                                  |              |                                       |
+| CS 3800   | Theory of Computation                            | N/A          | MISSING                               |
+| N/A       | Computing and social issues                      | BMES 338     | Biomedical Ethics and Law             |
+| N/A       | Concentration course                             | BMES 491     | Senior Design Project 1               |
+| N/A       | Presentation requirement                         | BMES 382     | Junior Design Seminar 2               |
+| ENGW 3302 | Advanced Writing in the Technical Professions    | BMES 381     | Junior Design Seminar 1               |
+|           |                                                  |              |                                       |
+| Year 4    |                                                  |              |                                       |
+| CS 4530   | Fundamentals of Software Engineering             | Curvebeam    | Work experience                       |
+| N/A       | Concentration course                             | ECES 301     | Transform Methods                     |
+| N/A       | CS Elective                                      | ECEL 304     | Design with Microcontrollers          |
+| N/A       | Science elective with lab                        | BMES 301     | Biomechanics                          |
+
+Non-CS elective equivalencies excluded from table, see transcipt.
+
+* Plan of study comparison - [[https://catalog.mit.edu/degree-charts/electrical-engineering-computer-science-course-6-2/][MIT EECS]]
+
+Summary
+- Missing 6.120A Discrete Mathematics and Proofs for CS
+- Missing 6.1210 Introduction to algorithms
+
+|   Code | Class                                         | Code     | Class                                            |
+|--------+-----------------------------------------------+----------+--------------------------------------------------|
+| 6.100A | Introduction to Programming in Python         | ECE 203  | Programming for Engineers                        |
+| 6.120A | Discrete Mathematics and Proofs for CS        | N/A      | MISSING                                          |
+| 6.1210 | Introduction to algorithms                    | N/A      | MISSING                                          |
+| 6.1904 | Low-level programming in C and assembly       | ECEL 304 | Design with Microcontrollers                     |
+|  18.06 | Linear Algebra                                | MATH 261 | Linear Algebra                                   |
+|  18.05 | Introduction to Probability and Statistics    | ENGR 202 | Evaluation and presentation of experimental data |
+| 6.2000 | Electrical circuits modeling and design       | ECE 200  | Digital Logic Design                             |
+| 6.3100 | Dynamic system modeling and control design    | ECES 304 | Dynamic systems and stability                    |
+| 6.1910 | Computation structures                        | ECEC 302 | Digital Systems Projects                         |
+| 6.9000 | Engineering for impact                        | BMES 338 | Biomedical Ethics and Law                        |
+|        | EE track electives (Biomedical systems)       |          |                                                  |
+| 6.4810 | Cellular neurophysiology and computing        | BMES 477 | Neuroengineering 1                               |
+| 6.4860 | Medical device design                         | BMES 212 | The Body Synthetic                               |
+|        | EE track electives (Systems Science)          |          |                                                  |
+| 6.3000 | Signal Processing                             | ECES 301 | Transform Methods                                |
+|  6.C27 | Computational Imaging, Physics and Algorithms | BMES 477 | Neuroengineering II, work experience             |
+|        | EECS electives                                |          |                                                  |
+|  18.03 | Differential Equations                        | MATH 262 | Differential equations                           |
+| 6.1020 | Software Construction                         | ECEC 301 | Advanced programming for engineers               |
