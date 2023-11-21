@@ -27,6 +27,7 @@
 
 | Code     | Title                                            | Notes                                                                  |
 |----------+--------------------------------------------------+------------------------------------------------------------------------|
+|          | CS/CE courses (15)                               |                                                                        |
 | ENGR 103 | Engineering Design Lab                           | Graphics programming in OpenGL, surface normals, vector calculus       |
 | ECE 200  | Digital Logic Design                             | Combinatorial logic and boolean algebra                                |
 | BMES 201 | Programming and Modeling for BME 1               | MATLAB data analysis                                                   |
@@ -42,7 +43,7 @@
 | BMES 491 | Senior Design Project 1                          | ML classifiers (Support Vector Machines), signal processing            |
 | BMES 492 | Senior Design Project 2                          |                                                                        |
 | BMES 493 | Senior Design Project 3                          |                                                                        |
-|          |                                                  |                                                                        |
+|          | Biology and Neuroscience courses (13)            |                                                                        |
 | BIO 122  | Cells and Genetics                               |                                                                        |
 | BIO 141  | Essential Biology                                |                                                                        |
 | BIO 201  | Human Physiology 1                               |                                                                        |
@@ -56,7 +57,7 @@
 | BMES 411 | Chronoengineering and biorhythms                 |                                                                        |
 | BIO 462  | Biology of Neuron function                       |                                                                        |
 | BMES 685 | Experimental Methods in BME                      |                                                                        |
-|          |                                                  |                                                                        |
+|          | Math courses (10)                                |                                                                        |
 | MATH 121 | Calulus 1                                        |                                                                        |
 | MATH 122 | Calulus 2                                        |                                                                        |
 | MATH 200 | Multivariate calculus                            |                                                                        |
@@ -67,38 +68,37 @@
 | BMES 375 | Computational Bioengineering                     | Continuation of BMES 372                                               |
 | ENGR 201 | Evaluation and presentation of experimental data | Hypothesis testing such as T-tests, ANOVA, Chi-squared, etc.           |
 | ENGR 202 | Evaluation and presentation of experimental data | Regression and probability                                             |
-|          |                                                  |                                                                        |
+|          | Physics (4)                                      |                                                                        |
 | PHYS 101 | Fundamentals of Physics 1                        |                                                                        |
 | PHYS 102 | Fundamentals of Physics 2                        |                                                                        |
 | PHYS 201 | Fundamentals of Physics 3                        |                                                                        |
 | ENGR 210 | Introduction to Thermodynamics                   |                                                                        |
-|          |                                                  |                                                                        |
+|          | Medical device engineering (4)                   |                                                                        |
 | BMES 212 | The Body Synthetic                               | Medical device design (general)                                        |
 | BMES 325 | Principles of Biomedical Engineering 1           |                                                                        |
 | BMES 326 | Principles of Biomedical Engineering 2           |                                                                        |
 | BMES 401 | Biosensors 1                                     | Design of venous catheters and flow modeling                           |
-|          |                                                  |                                                                        |
+|          | Ethics and Law (4)                               |                                                                        |
 | BMES 381 | Junior Design Seminar 1                          | Medical device regulatory compliance                                   |
 | BMES 382 | Junior Design Seminar 2                          |                                                                        |
 | BMES 338 | Biomedical Ethics and Law                        |                                                                        |
 | HIST 285 | Technology in the Historial Perspective          |                                                                        |
-|          |                                                  |                                                                        |
+|          | Mechanical Engineering (3)                       |                                                                        |
 | ENGR 100 | Beginning CAD for Design                         |                                                                        |
 | MEM 202  | Statics                                          |                                                                        |
 | BMES 897 | Research                                         | MEMS and Photolithographyq                                             |
-|          |                                                  |                                                                        |
+|          | Chemistry (2)                                    |                                                                        |
 | CHEM 101 | General Chemistry 1                              |                                                                        |
 | CHEM 102 | General Chemistry 2                              |                                                                        |
-|          |                                                  |                                                                        |
+|          | Psychology (2)                                   |                                                                        |
 | PSY 101  | General Psychology 1                             |                                                                        |
 | PSY 213  | Sensation and Perception                         |                                                                        |
-|          |                                                  |                                                                        |
+|          | English (3)                                      |                                                                        |
 | ENGL 101 | Composition and Rhetoric 1                       |                                                                        |
 | ENGL 102 | Composition and Rhetoric 1                       |                                                                        |
 | ENGL 103 | Composition and Rhetoric 3                       |                                                                        |
-|          |                                                  |                                                                        |
-| excluded | Seminars and electives                           | See transcript                                                         |
-
+|          | Other                                            |                                                                        |
+| N/A      | Seminars and electives                           | See transcript                                                         |
 
 * Plan of study comparison table - [[https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-science/bscs/#planofstudytext][NEU CS]]
 
