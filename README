@@ -108,7 +108,7 @@ Summary
 - Missing CS 3000. Algorithms and Data.
 - Missing CS 3800. Theory of Computation. (automata)
 
-| Code      | Class                                            | Code         | Class                                 |
+| Code      | Class                                            | Drexel Code  | Drexel Class                          |
 |-----------+--------------------------------------------------+--------------+---------------------------------------|
 | Year 1    |                                                  |              |                                       |
 | CS 1800   | Discrete (data) Structures                       | N/A          | MISSING                               |
@@ -148,7 +148,7 @@ Summary
 - Missing 6.120A Discrete Mathematics and Proofs for CS
 - Missing 6.1210 Introduction to algorithms
 
-|   Code | Class                                         | Code     | Class                                            |
+|   Code | Class                                         | Code     | Drexel Class                                     |
 |--------+-----------------------------------------------+----------+--------------------------------------------------|
 | 6.100A | Introduction to Programming in Python         | ECE 203  | Programming for Engineers                        |
 | 6.120A | Discrete Mathematics and Proofs for CS        | N/A      | MISSING                                          |
