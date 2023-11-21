@@ -27,7 +27,7 @@
 
 | Code     | Title                                            | Notes                                                                  |
 |----------+--------------------------------------------------+------------------------------------------------------------------------|
-|          | CS/CE courses (15)                               |                                                                        |
+|          | Computer Science and Engineering (15)            |                                                                        |
 | ENGR 103 | Engineering Design Lab                           | Graphics programming in OpenGL, surface normals, vector calculus       |
 | ECE 200  | Digital Logic Design                             | Combinatorial logic and boolean algebra                                |
 | BMES 201 | Programming and Modeling for BME 1               | MATLAB data analysis                                                   |
@@ -43,7 +43,7 @@
 | BMES 491 | Senior Design Project 1                          | ML classifiers (Support Vector Machines), signal processing            |
 | BMES 492 | Senior Design Project 2                          |                                                                        |
 | BMES 493 | Senior Design Project 3                          |                                                                        |
-|          | Biology and Neuroscience courses (13)            |                                                                        |
+|          | Biology and Neuroscience (13)                    |                                                                        |
 | BIO 122  | Cells and Genetics                               |                                                                        |
 | BIO 141  | Essential Biology                                |                                                                        |
 | BIO 201  | Human Physiology 1                               |                                                                        |
@@ -57,7 +57,7 @@
 | BMES 411 | Chronoengineering and biorhythms                 |                                                                        |
 | BIO 462  | Biology of Neuron function                       |                                                                        |
 | BMES 685 | Experimental Methods in BME                      |                                                                        |
-|          | Math courses (10)                                |                                                                        |
+|          | Math (10)                                        |                                                                        |
 | MATH 121 | Calulus 1                                        |                                                                        |
 | MATH 122 | Calulus 2                                        |                                                                        |
 | MATH 200 | Multivariate calculus                            |                                                                        |
