@@ -37,7 +37,7 @@
 | ECES 304 | Dynamic systems and stability                    | Linear and nonlinear second-order systems, eigenvalues/vectors         |
 | ECES 356 | Theory of Control                                | Control loop architectures such as PID, etc.                           |
 | BMES 405 | Physiological Control Systems                    | Feedback and feed forward control systems, stability, modeling         |
-| BMES 491 | Senior Design Project 1                          | ML classifiers (Support Vector Machines), signal processing            |
+| BMES 491 | Senior Design Project 1                          | ML classifiers (Support Vector Machines), Python signal processing     |
 | BMES 492 | Senior Design Project 2                          |                                                                        |
 | BMES 493 | Senior Design Project 3                          |                                                                        |
 |          | Biology and Neuroscience (13)                    |                                                                        |
