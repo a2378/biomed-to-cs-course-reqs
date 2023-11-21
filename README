@@ -3,7 +3,7 @@
 #+options: num:nil toc:nil
 
 * What CS topics are missing?
-- Algorithms and data structures
+- Data structures and algorithms
 - Automata theory
 - Proofs
 - Compilers (not required but I want to cover this)
