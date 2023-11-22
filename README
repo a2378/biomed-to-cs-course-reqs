@@ -3,41 +3,40 @@
 #+options: num:nil toc:nil
 
 * What CS topics are missing?
+
+When compared to two randomly-selected top CS programs, I am missing:
 - Data structures and algorithms
 - Automata theory
 - Proofs
 - Compilers (not required but I want to cover this)
 
-* How to fill in?
-- MIT OpenCourseware 6.006 Algorithms,
-  Algorithms textbook by CLRS
-- MIT OpenCourseware 6.045J Automata, Computability, and Complexity,
-  Introduction to Automata Theory by Hopcroft and Ullman
-- MIT Opencourseware 6.042J Mathematics For Computer Science,
-  How to Prove it by Velleman
-- MIT OCW 6.004 Computation structures,
-  Dragon book
-- Then take algorithms, PL (for automata), complexity theory, compilers classes
-  after starting
+* How I am filling in these classes
+
+| Course                    | Textbook                                                   | MIT OpenCourseWare                             |
+|---------------------------+------------------------------------------------------------+------------------------------------------------|
+| Data structures and algo. | [[https://en.wikipedia.org/wiki/Introduction_to_Algorithms][Introduction to Algorithms]] by Cormen, Leiserson, Rivest    | [[https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/][6.006 Algorithms]]                               |
+| Automata                  | [[https://en.wikipedia.org/wiki/Introduction_to_Automata_Theory,_Languages,_and_Computation][Introduction to Automata Theory]] by Hopcroft and Ullman     | [[https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/][6.045J Automata, Computability, and Complexity]] |
+| Proofs                    | [[https://www.amazon.com/How-Prove-Structured-Approach-2nd/dp/0521675995][How to Prove it]] by Velleman                                | [[https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/][6.042J Mathematics For Computer Science]]        |
+| Compilers                 | [[https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools][Compilers: Principles, Techniques, and Tools]] (Dragon book) | [[https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/syllabus/][6.004 Computation structures]]                   |
 
 * Course table - Drexel Biomedical (Neural) Engineering + Comp. Eng.
 
-| Code     | Title                                            | Notes                                                                  |
+| Code     | Title                                            | Notes ([[https://catalog.drexel.edu/coursedescriptions/quarter/undergrad/bmes/][course catalog)]]                                                 |
 |----------+--------------------------------------------------+------------------------------------------------------------------------|
 |          | Computer Science and Engineering (15)            |                                                                        |
 | ENGR 103 | Engineering Design Lab                           | Graphics programming in OpenGL, surface normals, vector calculus       |
 | ECE 200  | Digital Logic Design                             | Combinatorial logic and boolean algebra                                |
-| BMES 201 | Programming and Modeling for BME 1               | MATLAB data analysis                                                   |
-| BMES 202 | Programming and Modeling for BME 2               | Python data analysis                                                   |
+| BMES 201 | Programming and Modeling for Biomedical Eng. 1   | MATLAB data analysis                                                   |
+| BMES 202 | Programming and Modeling for Biomedical Eng. 2   | Python data analysis                                                   |
 | ECE 203  | Programming for Engineers                        | Python and C programming                                               |
 | ECES 301 | Transform Methods                                | Taylor series, Laplace, Fourier, etc.                                  |
 | ECEC 301 | Advanced programming for engineers               | OOP, mem. alloc. and GC, data structures (linked lists, stacks, trees) |
 | ECEC 302 | Digital Systems Projects                         | Hardware description languages and FPGAs                               |
 | ECEL 304 | Design with Microcontrollers                     | Embedded C programming                                                 |
-| ECES 304 | Dynamic systems and stability                    | Linear and nonlinear second-order systems, eigenvalues/vectors         |
+| ECES 304 | Dynamic systems and stability                    | Linear and nonlinear second-order systems, eigenvalues/eigenvectors    |
 | ECES 356 | Theory of Control                                | Control loop architectures such as PID, etc.                           |
 | BMES 405 | Physiological Control Systems                    | Feedback and feed forward control systems, stability, modeling         |
-| BMES 491 | Senior Design Project 1                          | ML classifiers (Support Vector Machines), Python signal processing     |
+| BMES 491 | Senior Design Project 1                          | ML classifiers (Support Vector Machines), signal processing in Python  |
 | BMES 492 | Senior Design Project 2                          |                                                                        |
 | BMES 493 | Senior Design Project 3                          |                                                                        |
 |          | Biology and Neuroscience (13)                    |                                                                        |
@@ -53,7 +52,7 @@
 | BMES 477 | Neuroengineering 2                               |                                                                        |
 | BMES 411 | Chronoengineering and biorhythms                 |                                                                        |
 | BIO 462  | Biology of Neuron function                       |                                                                        |
-| BMES 685 | Experimental Methods in BME                      |                                                                        |
+| BMES 685 | Experimental Methods in Biomedical Engineering   |                                                                        |
 |          | Math (10)                                        |                                                                        |
 | MATH 121 | Calulus 1                                        |                                                                        |
 | MATH 122 | Calulus 2                                        |                                                                        |
@@ -61,10 +60,10 @@
 | MATH 262 | Differential equations                           |                                                                        |
 | BMES 451 | Transport Phenomena in Living Systems            | Modeling diffusion and heat transfer in cells using PDEs               |
 | MATH 261 | Linear Algebra                                   |                                                                        |
-| BMES 372 | Biosimulation                                    | Biomedical data analysis using linear algebra                          |
-| BMES 375 | Computational Bioengineering                     | Continuation of BMES 372                                               |
-| ENGR 201 | Evaluation and presentation of experimental data | Hypothesis testing such as T-tests, ANOVA, Chi-squared, etc.           |
-| ENGR 202 | Evaluation and presentation of experimental data | Regression and probability                                             |
+| BMES 372 | Biosimulation                                    | Biomedical data analysis using calculus, diff. eq., and linear algebra |
+| BMES 375 | Computational Bioengineering                     | Continuation of Biosimulation                                          |
+| ENGR 201 | Evaluation and presentation of experimental data | Statistics, hypothesis testing such as ANOVA, Chi-squared, etc.        |
+| ENGR 202 | Evaluation and presentation of experimental data | Statistics, regression and probability                                 |
 |          | Physics (4)                                      |                                                                        |
 | PHYS 101 | Fundamentals of Physics 1                        |                                                                        |
 | PHYS 102 | Fundamentals of Physics 2                        |                                                                        |
@@ -105,7 +104,7 @@ Summary
 - Missing CS 3000. Algorithms and Data.
 - Missing CS 3800. Theory of Computation. (automata)
 
-| Code      | Class                                            | Drexel Code  | Drexel Class                          |
+| Code      | Class                                            | Drexel Code  | Equivalent class                      |
 |-----------+--------------------------------------------------+--------------+---------------------------------------|
 | Year 1    |                                                  |              |                                       |
 | CS 1800   | Discrete (data) Structures                       | N/A          | MISSING                               |
@@ -145,7 +144,7 @@ Summary
 - Missing 6.120A Discrete Mathematics and Proofs for CS
 - Missing 6.1210 Introduction to algorithms
 
-|   Code | Class                                         | Code     | Drexel Class                                     |
+|   Code | Class                                         | Code     | Equivalent class                          |
 |--------+-----------------------------------------------+----------+--------------------------------------------------|
 | 6.100A | Introduction to Programming in Python         | ECE 203  | Programming for Engineers                        |
 | 6.120A | Discrete Mathematics and Proofs for CS        | N/A      | MISSING                                          |
